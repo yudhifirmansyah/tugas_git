@@ -1,3 +1,4 @@
+<style>
 body {
   margin: 0;
   padding: 0;
@@ -112,7 +113,7 @@ body {
     text-align: center;
     width: 90%;
 }
-
+</style>
 
 <div id="banner">
   <div id="banner-images">
